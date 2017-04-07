@@ -1,9 +1,5 @@
 <!DOCTYPE HTML>
-<!--
-	Alpha by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
+
 <html>
 	<head>
 		<title>Home IRIC</title>
@@ -28,34 +24,18 @@
 								<ul>
 									<li><a href="faculty.html">Faculty</a></li>
 									<li><a href="members.html">Members</a></li>
-									<!--li><a href="elements.html">Elements</a></li-->
-									<!--li>
-										<a href="#">Submenu</a>
-										<ul>
-											<li><a href="#">Option One</a></li>
-											<li><a href="#">Option Two</a></li>
-											<li><a href="#">Option Three</a></li>
-											<li><a href="#">Option Four</a></li>
-										</ul>
-									</li-->
 								</ul>
 							</li>
 							<li><a href="events.html" >Events</a></li>
 							<li><a href="contact.html" >Contact</a></li>
-							<li><a href="#" class="button">Sign Up</a></li>
 						</ul>
 					</nav>
 				</header>
 
 			<!-- Banner -->
 				<section id="banner">
-					<h2>IRIC</h2>
-					<p>Innovative Research Incubation Club</p>
-					<p> ... A part of Incubation Center NITH</p>
-					<ul class="actions">
-						<li><a href="#" class="button special">Sign Up</a></li>
-						<li><a href="#" class="button">Learn More</a></li>
-					</ul>
+					<h2>Innovative Research Incubation Club</h2>
+					<p> A part of Incubation Center NIT Hamirpur</p>
 				</section>
 
 			<!-- Main -->
@@ -63,7 +43,7 @@
 
 					<section class="box special">
 						<header class="major">
-							<h2>Official Research & Incubation Center
+							<h2>Research & Incubation Center
 							<br />
 							NIT HAMIRPUR</h2>
 							<p>A thousand mile journey starts with a single step.</p>
@@ -90,19 +70,19 @@
 							<section>
 								<!--span class="icon major fa-cloud accent4"></span-->
 								<img src="icons/compose.png" alt="funding"></img>
-								<h3>Research Paper & Patent</h3>
-								<p>The main vision behind this club is to foster a research environment in college and converting ideas into research publications and patents.</p>
+								<h3>Patents & Papers</h3>
+								<p>The main vision behind this club is to foster a research environment in the institute and converting ideas into research publications and patents.</p>
 							</section>
 							<section>
 								<!--span class="icon major fa-lock accent5"></span-->
 								<img src="icons/student.png" alt=""></img>
 								<h3>Internship</h3>
-								<p>Utilise your time by doing Internship work in the college only.</p>
+								<p>Utilise your time by doing Internship work in the institute only.</p>
 							</section>
 						</div>
 					</section>
 
-					<div class="row">
+					<!--div class="row">
 						<div class="6u 12u(narrower)">
 
 							<section class="box special">
@@ -127,42 +107,18 @@
 							</section>
 
 						</div>
-					</div>
+					</div-->
 
 				</section>
-
-			<!-- CTA -->
-				<!--section id="cta">
-
-					<h2>Sign up for beta access</h2>
-					<p>Blandit varius ut praesent nascetur eu penatibus nisi risus faucibus nunc.</p>
-
-					<form>
-						<div class="row uniform 50%">
-							<div class="8u 12u(mobilep)">
-								<input type="email" name="email" id="email" placeholder="Email Address" />
-							</div>
-							<div class="4u 12u(mobilep)">
-								<input type="submit" value="Sign Up" class="fit" />
-							</div>
-						</div>
-					</form>
-
-				</section-->
 
 			<!-- Footer -->
 				<footer id="footer">
 					<ul class="icons">
-						<!--li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li-->
 						<li><a href="http://facebook.com/iric.nith/" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-						<!--li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li-->
-						<!--li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li-->
-						<!--li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
-						<li><a href="#" class="icon fa-google-plus"><span class="label">Google+</span></a></li-->
 					</ul>
 					<ul class="copyright">
-						<li>&copy;All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-						<li>Images: <a href="http://flaticon.com" >FLATICON</a>, <a href="http://unsplash.com" >UNSPLASH</a></li>
+						<li>&copy;All rights reserved.</li><li>Design: TEAM IRIC</li>
+						<li>Icons: <a href="http://flaticon.com" >FLATICON</a></a></li>
 					</ul>
 				</footer>
 

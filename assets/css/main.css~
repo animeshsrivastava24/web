@@ -1793,7 +1793,7 @@
 		color: #777;
 		font-family: "Source Sans Pro", sans-serif;
 		font-size: 16pt;
-		font-weight: 400;
+		font-weight: 350;
 		line-height: 1.65em;
 		letter-spacing: -0.015em;
 	}
