@@ -23,10 +23,11 @@
 								<a href="#" class="icon fa-angle-down">People</a>
 								<ul>
 									<li><a href="faculty.html">Faculty</a></li>
-									<li><a href="members.html">Members</a></li>
+									<li><a href="students.html">Students</a></li>
 								</ul>
 							</li>
 							<li><a href="events.html" >Events</a></li>
+							<li><a href="project.html">Projects</a></li>
 							<li><a href="contact.html" >Contact</a></li>
 						</ul>
 					</nav>
@@ -81,34 +82,6 @@
 							</section>
 						</div>
 					</section>
-
-					<!--div class="row">
-						<div class="6u 12u(narrower)">
-
-							<section class="box special">
-								<span class="image featured"><img src="images/idea.jpg" alt="" /></span>
-								<h3>Project Proposal</h3>
-								<p>The link will be shortly opened.</p>
-								<ul class="actions">
-									<li><a href="#" class="button alt">Learn More</a></li>
-								</ul>
-							</section>
-
-						</div>
-						<div class="6u 12u(narrower)">
-
-							<section class="box special">
-								<span class="image featured"><img src="images/work.jpg" alt="" /></span>
-								<h3>Internship Opportunities</h3>
-								<p>We are in talks with esteemed faculties.</p>
-								<ul class="actions">
-									<li><a href="#" class="button alt">Learn More</a></li>
-								</ul>
-							</section>
-
-						</div>
-					</div-->
-
 				</section>
 
 			<!-- Footer -->

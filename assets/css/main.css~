@@ -1793,7 +1793,7 @@
 		color: #777;
 		font-family: "Source Sans Pro", sans-serif;
 		font-size: 16pt;
-		font-weight: 350;
+		font-weight: 400;
 		line-height: 1.65em;
 		letter-spacing: -0.015em;
 	}
@@ -3113,6 +3113,33 @@
 	body.landing #main {
 		margin-top: -14em;
 	}
+	
+	#main .navigation {
+			color: #999;
+			font-size: 0.9em;
+			line-height: 1em;
+			margin: 2em 6em 0 0;
+			padding: 0;
+			text-align: center;
+		}
+
+			#main .navigation a {
+				color: inherit;
+			}
+
+			#main .navigation li {
+				border-left: solid 1px #dddddd;
+				display: inline-block;
+				list-style: none;
+				margin-left: 1em;
+				padding-left: 1em;
+			}
+
+				#main .navigation li:first-child {
+					border-left: 0;
+					margin-left: 0;
+					padding-left: 0;
+				}
 
 /* Footer */
 
