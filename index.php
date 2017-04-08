@@ -20,14 +20,20 @@
 							<li><a href="index.php">Home</a></li>
 							<li><a href="vision.html" >Vision</a></li>
 							<li>
-								<a href="#" class="icon fa-angle-down">People</a>
+								<a href="#" class="icon fa-angle-down">Team</a>
 								<ul>
 									<li><a href="faculty.html">Faculty</a></li>
 									<li><a href="students.html">Students</a></li>
 								</ul>
 							</li>
 							<li><a href="events.html" >Events</a></li>
-							<li><a href="project.html">Projects</a></li>
+							<li>
+								<a href="#" class="icon fa-angle-down">Projects</a>
+								<ul>
+									<li><a href="project.html">Faculty</a></li>
+									<li><a href="students_project.html">Students</a></li>
+								</ul>
+							</li>
 							<li><a href="contact.html" >Contact</a></li>
 						</ul>
 					</nav>
@@ -47,6 +53,8 @@
 							<h2>Research & Incubation Center
 							<br />
 							NIT HAMIRPUR</h2>
+							<center><img src="icons/iric.jpg" alt="iric logo"></center>
+							<br>
 							<p>A thousand mile journey starts with a single step.</p>
 						</header>
 						<!--span class="image featured"><img src="images/pic01.jpg" alt="" /></span-->
