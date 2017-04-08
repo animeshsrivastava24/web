@@ -51,9 +51,9 @@
 					<section class="box special">
 						<header class="major">
 							<h2>Research & Incubation Center
-							<br />
+							<br>
 							NIT HAMIRPUR</h2>
-							<center><img src="icons/iric.jpg" alt="iric logo"></center>
+							<center><img src="images/iric.jpg" alt=""></center>
 							<br>
 							<p>A thousand mile journey starts with a single step.</p>
 						</header>
@@ -64,13 +64,13 @@
 						<div class="features-row">
 							<section>
 								<!--span class="icon major fa-bolt accent2"></span-->
-								<img src="icons/rupee.png" alt="funding"></img>
+								<img src="images/rupee.png" alt=""></img>
 								<h3>Funding</h3>
 								<p>Giving Required Funding to Project Proposals.</p>
 							</section>
 							<section>
 								<!--span class="icon major fa-area-chart accent3"></span-->
-								<img src="icons/lighthouse.png" alt="funding"></img>
+								<img src="images/lighthouse.png" alt=""></img>
 								<h3>Guidance</h3>
 								<p>Get along with faculty in their projects.</p>
 							</section>
@@ -78,13 +78,13 @@
 						<div class="features-row">
 							<section>
 								<!--span class="icon major fa-cloud accent4"></span-->
-								<img src="icons/compose.png" alt="funding"></img>
+								<img src="images/compose.png" alt=""></img>
 								<h3>Patents & Papers</h3>
 								<p>The main vision behind this club is to foster a research environment in the institute and converting ideas into research publications and patents.</p>
 							</section>
 							<section>
 								<!--span class="icon major fa-lock accent5"></span-->
-								<img src="icons/student.png" alt=""></img>
+								<img src="images/student.png" alt=""></img>
 								<h3>Internship</h3>
 								<p>Utilise your time by doing Internship work in the institute only.</p>
 							</section>
