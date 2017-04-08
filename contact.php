@@ -5,7 +5,7 @@ if(isset($_POST['email'])) {
  
      
  
-    $email_to = "rahul10mail@gmail.com";
+    $email_to = "iric.nith@gmail.com";
  
        
  
