@@ -18,6 +18,7 @@
 
 	body {
 		line-height: 1;
+		overflow-x: hidden;
 	}
 
 	ol, ul {
@@ -49,6 +50,64 @@
 		-webkit-box-sizing: border-box;
 		box-sizing: border-box;
 	}
+	
+		.contain{	width: 500%;
+    				margin-left: -200%;
+    				background-color:#808080;
+						margin-top: 0px;
+
+					}
+
+	.team-head { display: inline-block;
+								padding: 25px 40px;
+								color: #e6e6e6;
+								/*border: solid 2px #fff;*/
+								text-transform: uppercase;
+								letter-spacing: 1px;
+								font-size: 20px; }
+
+
+					.grid {
+						  display: -webkit-box;
+						  display: -moz-box;
+						  display: -ms-flexbox;
+						  display: -webkit-flex;
+						  display: flex;
+
+						  -webkit-flex-flow: row wrap;
+						  justify-content: space-between;
+							align-items: stretch;
+							margin-left: auto;
+							margin-right: auto;
+						}
+
+						.cell {
+								width: 300px;
+								flex-grow: 1;
+								text-align: center;
+								margin-bottom: 50px;}
+
+
+
+
+		.team img { margin-bottom: 40px; }
+		 ul.social-buttons { list-style: none; margin: 0; padding: 0; }
+		 ul.social-buttons li { display: inline-block; margin-right: 10px; }
+		 ul.social-buttons li:last-child { margin-right: 0; }
+		 .social-btn { width: 40px;
+			 						height: 40px;
+									border-radius: 50%;
+								  -moz-border-radius: 50%;
+									-webkit-border-radius: 50%;
+									-o-border-radius: 50%;
+									background: #777;
+									display: inline-block;
+									color: #fff;
+									font-size: 17px;
+									line-height: 40px;
+									text-align: center; }
+			.social-btn:hover, .social-btn:focus { background: #444; color: #fff; }
+			.social { margin-top: 25px }
 
 /* Containers */
 
